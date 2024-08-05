@@ -48,3 +48,6 @@ def scrape_books_to_scrape():
     print("Data has been successfully scraped and stored in 'books.csv'.")
 
 scrape_books_to_scrape()
+
+
+# Simple program to scrap data from a website 
